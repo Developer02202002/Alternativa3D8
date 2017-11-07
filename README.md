@@ -1,3 +1,5 @@
+[Powered by AlternativaPlatform](http://www.alternativaplatform.com)
+
 # Alternativa3D
 Alternativa3D is a high-tech and high-performance 3D engine for ActionScript 3 and Adobe AIR. It supports hardware acceleration for browser-based games and applications. Initially, the engine was designed to meet our own needs but we realized that it wouldn't be fair to limit the use of the technology to just one game. That is why we decided to make it an open source engine. Since our top priorities are high performance and resource efficiency, we recommend using it for games with high-resolution graphics.
 
